@@ -19,6 +19,10 @@ Objectives:
 
 -To provide actionable insights for potential book buyers and publishers.
 
+Dataset Source:
+
+Kaggle: https://www.kaggle.com/datasets/die9origephit/amazon-data-science-books
+
 Description:
 
 The aim of this project is to conduct an in-depth analysis of a dataset, sourced from Kaggle.com, containing 946 data science-related books available on Amazon. The primary goals are to uncover trends in pricing, reviews, and ratings, and to provide actionable insights that can benefit both buyers and publishers. This analysis seeks to answer specific questions such as which authors are most prolific, what the average book prices are, how price correlates with the number of reviews, and which books receive the highest ratings. By leveraging SQL and Python, we aim to derive meaningful patterns and insights that are both statistically significant and practically relevant. 
