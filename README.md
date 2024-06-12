@@ -1,12 +1,14 @@
 # Amazon-Data-Science-Book-Analysis
 Table of Contents
 
-Introduction
-Methodologies
-Key Findings
-Data Preprocessing
-Exploratory Data Analysis (EDA)
-Conclusion
+- Introduction
+- Methodologies
+- Key Findings
+- Data Preprocessing
+- Exploratory Data Analysis (EDA)
+- Conclusion
+
+  
 1. Introduction
 
 Objectives:
@@ -19,9 +21,8 @@ Objectives:
 
 Description:
 
-The aim of this project is to conduct an in-depth analysis of a dataset, sourced from Kaggle.com, containing 946 data science-related books available on Amazon. The primary goals are to uncover trends in pricing, reviews, and ratings, and to provide actionable insights that can benefit both buyers and publishers. This analysis seeks to answer specific questions such as which authors are most prolific, what the average book prices are, how price correlates with the number of reviews, and which books receive the highest ratings. By leveraging SQL and Python, we aim to derive meaningful patterns and insights that are both statistically significant and practically relevant. ?
+The aim of this project is to conduct an in-depth analysis of a dataset, sourced from Kaggle.com, containing 946 data science-related books available on Amazon. The primary goals are to uncover trends in pricing, reviews, and ratings, and to provide actionable insights that can benefit both buyers and publishers. This analysis seeks to answer specific questions such as which authors are most prolific, what the average book prices are, how price correlates with the number of reviews, and which books receive the highest ratings. By leveraging SQL and Python, we aim to derive meaningful patterns and insights that are both statistically significant and practically relevant. 
 
-t?
 
 2. Methodologies
 
@@ -30,6 +31,7 @@ The methodologies employed in this project are pivotal to ensuring the reliabili
 Next, we performed Exploratory Data Analysis (EDA) to identify underlying patterns and relationships within the data. EDA techniques included summary statistics to understand the central tendencies and variability of the data, as well as visualizations such as histograms, scatter plots, and bar graphs to reveal distributions and potential outliers.
 
 For the core analysis, we used a combination of SQL queries and Python's data manipulation and visualization libraries. The rationale behind using SQL was to efficiently query and aggregate large volumes of data, while Python was utilized for its robust analytical and visualization capabilities. The analysis was structured around key research questions, ensuring that each method employed was directly aligned with the objectives of the study. Assumptions made during the analysis, such as considering only books with more than 100 reviews to ensure the reliability of review-based metrics, were clearly documented.
+
 
 3. Key Findings
 
